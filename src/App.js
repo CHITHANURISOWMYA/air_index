@@ -6,7 +6,7 @@ import WeatherComponent from './component/xomponent';
 function App() {
   return (
    <>
-   <WeatherDashboard/>
+   <Project/>
    {/* <WeatherComponent/> */}
    </>
     
